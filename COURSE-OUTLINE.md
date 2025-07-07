@@ -271,8 +271,16 @@
 
 ---
 
+---
+
+## 📚 Navigation
+
+**[← Back to Course Home](README.md)** | **[Start Learning: Day 1 →](lessons/day-01/README.md)**
+
+---
+
 **Ready to begin your journey to becoming a certified Radiology Technician?** 
 
-Start with [Day 1: Introduction to Radiology](lessons/day-01/README.md) and take the first step toward your exciting new career! 🏥✨
+**[👉 START HERE: Day 1 - Introduction to Radiology](lessons/day-01/README.md)** and take the first step toward your exciting new career! 🏥✨
 
 *Remember: Every expert was once a beginner. Your dedication to learning will make you an excellent radiology technician!* 

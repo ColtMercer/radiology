@@ -437,6 +437,19 @@ Rate your understanding of each topic (1-5 scale):
 
 ---
 
+---
+
+## 📚 Navigation
+
+**[← Back to Week 1 Review](../study-guides/week-1-review.md)** | **[Course Outline →](../../COURSE-OUTLINE.md)**
+
+---
+
 **Great job completing Week 1!** You've built a solid foundation in radiology fundamentals. Keep practicing these concepts as they'll be the building blocks for everything you learn going forward.
+
+**Next Steps:**
+- **[Course Outline](../../COURSE-OUTLINE.md)** - See the complete 90-day learning plan
+- **[ARRT Exam Guide](../certification-prep/arrt-exam-guide.md)** - Learn about certification requirements
+- **[Back to Course Home](../../README.md)** - Return to main course page
 
 *Remember: Practice makes perfect, and consistency is key to success!* 📚✨ 

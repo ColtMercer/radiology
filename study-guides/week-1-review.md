@@ -179,6 +179,17 @@
 
 ---
 
+## 📚 Navigation
+
+**[← Back to Day 7 - Basic Positioning Techniques](../lessons/day-07/README.md)** | **[Week 1 Practice Exercises →](../practice-exercises/week-1-practice.md)**
+
+---
+
 **Congratulations on completing Week 1!** You've built a solid foundation in radiology fundamentals. Keep reviewing these concepts as they'll be the building blocks for everything you learn going forward.
+
+**Next Steps:**
+- **[Week 1 Practice Exercises](../practice-exercises/week-1-practice.md)** - Complete hands-on practice activities
+- **[Course Outline](../../COURSE-OUTLINE.md)** - See what's coming in Week 2 and beyond
+- **[ARRT Exam Guide](../certification-prep/arrt-exam-guide.md)** - Start thinking about certification
 
 *Remember: Repetition is the key to mastery. Review these concepts regularly!* 📖✨ 

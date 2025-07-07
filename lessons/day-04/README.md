@@ -183,6 +183,12 @@ Create a checklist for patient safety:
 
 ---
 
+## 📚 Navigation
+
+**[← Previous: Day 3 - Medical Terminology](day-03/README.md)** | **[Next: Day 5 - X-ray Physics Basics →](day-05/README.md)**
+
+---
+
 **Tomorrow**: We'll dive into X-ray physics - understanding how X-rays work and interact with matter!
 
 *Remember: Every patient interaction is an opportunity to provide excellent care and build trust.* 🤝 

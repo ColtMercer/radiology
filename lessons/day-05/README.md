@@ -206,6 +206,12 @@ Look at sample X-ray images and identify:
 
 ---
 
+## 📚 Navigation
+
+**[← Previous: Day 4 - Patient Care Fundamentals](day-04/README.md)** | **[Next: Day 6 - X-ray Equipment Operation →](day-06/README.md)**
+
+---
+
 **Tomorrow**: We'll learn about X-ray equipment and how to operate it safely and effectively!
 
 *Remember: Understanding the physics helps you create better images and keep everyone safe.* ⚡ 

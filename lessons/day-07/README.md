@@ -215,6 +215,17 @@ Create a positioning checklist:
 
 ---
 
-**Tomorrow**: We'll learn chest X-ray procedures - one of the most common and important exams in radiology!
+## 📚 Navigation
+
+**[← Previous: Day 6 - X-ray Equipment Operation](day-06/README.md)** | **[Week 1 Review →](../study-guides/week-1-review.md)**
+
+---
+
+**Congratulations on completing Week 1!** 
+
+**Next Steps:**
+- **[Week 1 Review Guide](../study-guides/week-1-review.md)** - Comprehensive review of Week 1 concepts
+- **[Week 1 Practice Exercises](../practice-exercises/week-1-practice.md)** - Hands-on practice activities
+- **[Course Outline](../../COURSE-OUTLINE.md)** - See the complete 90-day plan
 
 *Remember: Good positioning is the foundation of quality imaging. Take your time to get it right!* 📐 

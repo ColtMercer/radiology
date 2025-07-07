@@ -207,6 +207,12 @@ Break down these complex terms:
 
 ---
 
+## 📚 Navigation
+
+**[← Previous: Day 2 - Basic Anatomy and Physiology](day-02/README.md)** | **[Next: Day 4 - Patient Care Fundamentals →](day-04/README.md)**
+
+---
+
 **Tomorrow**: We'll learn about patient care fundamentals - how to interact with patients professionally and safely!
 
 *Tip: Practice saying medical terms out loud - it helps with pronunciation and memory!* 🗣️ 

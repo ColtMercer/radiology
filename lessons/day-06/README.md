@@ -196,6 +196,12 @@ Create a pre-exposure checklist:
 
 ---
 
+## 📚 Navigation
+
+**[← Previous: Day 5 - X-ray Physics Basics](day-05/README.md)** | **[Next: Day 7 - Basic Positioning Techniques →](day-07/README.md)**
+
+---
+
 **Tomorrow**: We'll learn basic positioning techniques - how to position patients correctly for optimal X-ray images!
 
 *Remember: Proper equipment operation is the foundation of quality imaging and patient safety.* ⚙️ 

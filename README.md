@@ -64,6 +64,33 @@ This course prepares you for:
 
 ---
 
-**Ready to begin?** Start with [Day 1: Introduction to Radiology](lessons/day-01/README.md)
+## 🚀 Ready to Begin Your Journey?
 
-*Remember: Consistency is key! Even 30 minutes daily will get you to your goal.*
+**[👉 START HERE: Day 1 - Introduction to Radiology](lessons/day-01/README.md)**
+
+*Click the link above to begin your first lesson!*
+
+---
+
+## 📚 Course Navigation
+
+### **Week 1: Foundations**
+- [Day 1: Introduction to Radiology](lessons/day-01/README.md) ← **START HERE**
+- [Day 2: Basic Anatomy and Physiology](lessons/day-02/README.md)
+- [Day 3: Medical Terminology](lessons/day-03/README.md)
+- [Day 4: Patient Care Fundamentals](lessons/day-04/README.md)
+- [Day 5: X-ray Physics Basics](lessons/day-05/README.md)
+- [Day 6: X-ray Equipment Operation](lessons/day-06/README.md)
+- [Day 7: Basic Positioning Techniques](lessons/day-07/README.md)
+
+### **Study Resources**
+- [Week 1 Review Guide](study-guides/week-1-review.md)
+- [Week 1 Practice Exercises](practice-exercises/week-1-practice.md)
+- [Complete Course Outline](COURSE-OUTLINE.md)
+- [ARRT Exam Preparation Guide](certification-prep/arrt-exam-guide.md)
+
+---
+
+**Remember: Consistency is key! Even 30 minutes daily will get you to your goal.**
+
+*Every expert was once a beginner. You're taking the first step toward an exciting career!* 🚀

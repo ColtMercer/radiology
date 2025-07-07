@@ -159,6 +159,12 @@ The skeleton is our body's framework and is often the primary focus of X-ray ima
 
 ---
 
+## 📚 Navigation
+
+**[← Previous: Day 1 - Introduction to Radiology](day-01/README.md)** | **[Next: Day 3 - Medical Terminology →](day-03/README.md)**
+
+---
+
 **Tomorrow**: We'll learn medical terminology - the language of healthcare that every radiology technician must know!
 
 *Tip: Try to visualize these body parts in your own body as you learn about them!* 🏥 

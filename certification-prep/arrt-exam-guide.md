@@ -320,6 +320,19 @@ The ARRT exam is the national certification exam for radiologic technologists. P
 
 ---
 
+---
+
+## 📚 Navigation
+
+**[← Back to Course Home](../../README.md)** | **[Course Outline →](../../COURSE-OUTLINE.md)**
+
+---
+
 **Remember**: The ARRT exam is challenging but achievable with proper preparation. Stay focused, study consistently, and believe in your ability to succeed!
+
+**Related Resources:**
+- **[Course Outline](../../COURSE-OUTLINE.md)** - See the complete 90-day learning plan
+- **[Week 1 Review](../study-guides/week-1-review.md)** - Review foundational concepts
+- **[Practice Exercises](../practice-exercises/week-1-practice.md)** - Hands-on learning activities
 
 *Good luck on your journey to becoming a certified Radiologic Technologist!* 🏥✨ 

@@ -131,6 +131,12 @@ A Radiology Technician (also called a Radiologic Technologist) is a healthcare p
 
 ---
 
+## 📚 Navigation
+
+**[← Back to Course Home](../README.md)** | **[Next: Day 2 - Basic Anatomy and Physiology →](day-02/README.md)**
+
+---
+
 **Tomorrow**: We'll dive into basic anatomy and physiology - the foundation of understanding what we're imaging!
 
 *Remember: Every expert was once a beginner. You're taking the first step toward an exciting career!* 🚀 
